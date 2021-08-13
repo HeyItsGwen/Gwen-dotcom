@@ -136,6 +136,8 @@
     .carousel {
         width: 100%;
         margin: auto;
+        border-radius: 5px;
+        overflow: hidden;
     }
     .carouselText {
       width: 100%;
