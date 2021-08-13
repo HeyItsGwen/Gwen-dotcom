@@ -1,5 +1,5 @@
 <div class='container d-flex flex-column '>
-    <h2 class='align-self-center'>- Contact -</h2>
+    <h2 class='align-self-center align-self-md-end'>- Contact -</h2>
     <div class='d-flex flex-column' id='contact'>
         <p>Email me at <a href='mailto: itsgwenhey@gmail.com' target='blank'>itsgwenhey@gmail.com</a></p>
         <p>Find me on twitter <a href='https://twitter.com/itsgwenhey' target='blank'>@itsgwenhey</a></p>

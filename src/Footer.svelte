@@ -8,9 +8,9 @@
         width: 100vw;
 	}
 	footer .fa-heart {
-		color: pink;
+		color: rgb(202, 127, 139);
 	}
     footer a {
-        color: pink;
+        color: rgb(202, 127, 139);
     }
 </style>
