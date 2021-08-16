@@ -136,10 +136,10 @@
       font-size: 1.1em;
     }
     .carousel {
-        width: 100%;
-        margin: auto;
-        border-radius: 5px;
-        overflow: hidden;
+      width: 100%;
+      margin: auto;
+      border-radius: 5px;
+      overflow: hidden;
     }
     .carousel .carousel-indicators li {
       background-color: rgb(202, 127, 139);
@@ -150,6 +150,7 @@
     .carouselText {
       width: 100%;
       padding: 35px 35px 0 35px;
+      min-height: 300px;
     }
     .carouselText p i {
       font-size: 0.8em;
