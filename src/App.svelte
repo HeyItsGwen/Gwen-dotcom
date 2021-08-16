@@ -1,4 +1,6 @@
 <script>
+	//
+
 	import Footer from './Footer.svelte';
 	import About from './About.svelte';
 	import Projects from './Projects.svelte';
@@ -78,7 +80,7 @@
 		width: 30%;
 		right: 34%;
 		top: 60px;
-		border-bottom: 1px solid rgb(85, 85, 85);
+		border-bottom: 1px solid rgb(202, 127, 139);
 	}
 
 	main {

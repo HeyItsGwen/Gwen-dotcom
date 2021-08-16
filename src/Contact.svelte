@@ -1,9 +1,9 @@
 <div class='container d-flex flex-column '>
-    <h2 class='align-self-center align-self-md-end'>- Contact -</h2>
+    <h2 class='align-self-center align-self-md-end'><i class="fas fa-envelope-open-text"></i>&nbsp Contact &nbsp<i class="fas fa-envelope-open-text"></i></h2>
     <div class='d-flex flex-column' id='contact'>
-        <p>Email me at <a href='mailto: itsgwenhey@gmail.com' target='blank'>itsgwenhey@gmail.com</a></p>
-        <p>Find me on twitter <a href='https://twitter.com/itsgwenhey' target='blank'>@itsgwenhey</a></p>
-        <p>Or have a look at my <a href='https://www.linkedin.com/in/gwen-hey-642109191/' target='blank'>Linkedin</a></p>
+        <p><i class="fas fa-envelope-square"></i>&nbsp Email me at <a href='mailto: itsgwenhey@gmail.com' target='blank'>itsgwenhey@gmail.com</a></p>
+        <p><i class="fab fa-twitter-square"></i>&nbsp Find me on twitter <a href='https://twitter.com/itsgwenhey' target='blank'>@itsgwenhey</a></p>
+        <p><i class="fab fa-linkedin"></i>&nbsp Or have a look at my <a href='https://www.linkedin.com/in/gwen-hey-642109191/' target='blank'>Linkedin</a></p>
     </div>
 </div>
 
@@ -19,6 +19,7 @@
     }
     h2{
 		font-size: 1.3em;
+        margin-bottom: 20px;
 	}
     a {
         color: rgb(202, 127, 139);
